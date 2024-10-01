@@ -1,0 +1,14 @@
+.form-itm{
+    margin:5px
+}
+.role-number{
+    text-transform: uppercase;
+}
+body{
+    font-family: Poppins;
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center;
+}

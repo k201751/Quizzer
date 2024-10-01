@@ -1,0 +1,54 @@
+.form-itm{
+    margin:5px
+}
+body{
+    font-family: Poppins;
+}
+#logo{
+    margin: 15px;
+    font-weight: 600;
+    color:darkblue;
+}
+#nav-bar-content{
+    margin-inline: 10px;
+    width: max-content;
+    display: inline-block;
+    margin-inline: 20px;
+}
+.nav-bar{
+    display: inline-block;
+    width:max-content;
+    margin: 10px;
+}
+.row{
+    width:max-content;
+}
+a:link {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+#current{
+    background-color: pink;
+    padding-inline:10px;
+    padding-block: 5px;
+    margin: 0;
+    border-radius: 5px;
+}

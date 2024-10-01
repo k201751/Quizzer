@@ -1,0 +1,88 @@
+{
+    "maths": [
+      {
+        "question": "What is the integral of ∫(4x^3−2x) dx?",
+        "options": ["x^4−x^2+C", "x^4−x^2", "x^4+x^2+C", "2x^4−x^2+C"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the value of the derivative of f(x)=3x^2+5x+2 at x=1?",
+        "options": ["5", "8", "11", "12"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is the solution to the equation 2x+3=11?",
+        "options": ["2", "4", "5", "8"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Solve the equation e^x=5.",
+        "options": ["ln(5)", "e^5", "5x", "ln(1/5)"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is the result of multiplying the complex numbers (3+2i) and (1+4i)?",
+        "options": ["3+14i", "−5+14i", "5+12i", "7−8i"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the sum of the infinite geometric series 2+1+1/2+1/4+⋯?",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": 1
+      }
+    ],
+    "english": [
+      {
+        "question": "Which of the following is a synonym for \"exacerbate\"?",
+        "options": ["Improve", "Worsen", "Support", "Simplify"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the meaning of the idiom \"a blessing in disguise\"?",
+        "options": ["Something good that is initially recognized as bad", "A fortunate event that happens suddenly", "An obvious advantage", "A problem that cannot be solved"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Choose the correct word to complete the sentence: \"The student worked hard to ______ her skills.\"",
+        "options": ["Raise", "Lift", "Enhance", "Make"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": ["She don't like going to the movies.", "She doesn't likes going to the movies.", "She doesn't like going to the movies.", "She don't likes going to the movies."],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Choose the correct spelling:",
+        "options": ["Definately", "Definetly", "Definitely", "Defanately"],
+        "correctAnswer": 2
+      }
+    ],
+    "iq": [
+      {
+        "question": "1. If you rearrange the letters \"CIFAIPC\" you would have the name of a(n):",
+        "options": ["Ocean", "City", "Animal", "Country"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which number should come next in the series? 2, 6, 12, 20, 30, ___",
+        "options": ["40", "42", "44", "46"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A clock shows 3:15. What is the angle between the hour and minute hands?",
+        "options": ["0 degrees", "7.5 degrees", "15 degrees", "30 degrees"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
+        "options": ["5 minutes", "10 minutes", "50 minutes", "100 minutes"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "If John is twice as old as Mary was 5 years ago, and the sum of their ages is 50, how old is Mary now?",
+        "options": ["10", "15", "20", "25"],
+        "correctAnswer": 1
+      }
+    ]
+  }
